@@ -46,6 +46,7 @@ li {
   max-width: 1400px;
   margin: 0 auto;
   height: auto;
+  padding: 0 20px;
 }
 
 /*header*/
@@ -304,7 +305,7 @@ footer {
 }
 
 .item-list {
-  margin-left: 150px;
+  margin-left: 100px;
   border-left: solid 1px #000;
 }
 
